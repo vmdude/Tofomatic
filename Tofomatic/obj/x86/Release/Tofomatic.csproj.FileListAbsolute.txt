@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2010\Projects\Tofomatic\Tofomatic\bin\Release\Tofomatic.exe.manifest
+D:\Documents\Visual Studio 2010\Projects\Tofomatic\Tofomatic\bin\Release\Tofomatic.application
+D:\Documents\Visual Studio 2010\Projects\Tofomatic\Tofomatic\bin\Release\Tofomatic.exe
+D:\Documents\Visual Studio 2010\Projects\Tofomatic\Tofomatic\bin\Release\Tofomatic.pdb
+D:\Documents\Visual Studio 2010\Projects\Tofomatic\Tofomatic\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\Tofomatic\Tofomatic\obj\x86\Release\Tofomatic.AboutBox.resources
+D:\Documents\Visual Studio 2010\Projects\Tofomatic\Tofomatic\obj\x86\Release\Tofomatic.Main.resources
+D:\Documents\Visual Studio 2010\Projects\Tofomatic\Tofomatic\obj\x86\Release\Tofomatic.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\Tofomatic\Tofomatic\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\Tofomatic\Tofomatic\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\Tofomatic\Tofomatic\obj\x86\Release\Tofomatic.exe.manifest
+D:\Documents\Visual Studio 2010\Projects\Tofomatic\Tofomatic\obj\x86\Release\Tofomatic.application
+D:\Documents\Visual Studio 2010\Projects\Tofomatic\Tofomatic\obj\x86\Release\Tofomatic.exe
+D:\Documents\Visual Studio 2010\Projects\Tofomatic\Tofomatic\obj\x86\Release\Tofomatic.pdb
